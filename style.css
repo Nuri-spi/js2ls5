@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.dog-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;
+}
+
+button {
+    width: 300px;
+    padding: 12px 0px 12px 0px;
+    border-radius: 6px;
+    border: none;
+    background-color: gray;
+    color: white;
+    font-size: 22px;
+}
+button:hover{
+    cursor: pointer;
+    color: black;
+    background-color: dimgrey;
+}
